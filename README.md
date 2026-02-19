@@ -1,3 +1,3 @@
 # my-first-program
 this is my first  Git Repository.
-Author- Srijana Ayer
+Author- Srijana(my first)
